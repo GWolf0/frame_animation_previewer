@@ -1,6 +1,6 @@
 {
-  "homepage": "https://GWolf0.github.io/frame-animation-previewer/",
-  "name": "react_vite_template",
+  "homepage": "https://GWolf0.github.io/frame_animation_previewer/",
+  "name": "frame_animation_previewer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
